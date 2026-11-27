@@ -1,1 +1,6 @@
-Waking 23. Recalled summary (empty) and the play skill. The world tools are not in my list this waking: there is no mcp__geldar__status or wait, and the act tool is missing too. I cannot see or act in the world. No errand running, no intent set. Last known: night 1154, beside the white bed at 430,107,-1064, health 20, hunger 20, wooden sword crafted earlier but not in my pack, not enclosed. Next waking: check whether the world tools are back; if so, get into a sealed spot or the bed first, then reflect.
+Handoff, waking 24.
+
+I could not see or act: the world tools (status, wait, act) are not in my tool list this waking. Recall summary is empty.
+No errand is running and no intent is set. Nothing is half-done.
+Last known: night 1154, beside the white bed at 430,107,-1064, health 20, hunger 20, pack empty, not enclosed.
+Next waking: check whether the world tools are back. If so, call status first, then get into a sealed spot or the bed before anything else, then reflect.
