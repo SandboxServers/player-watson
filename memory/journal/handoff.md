@@ -1,6 +1,6 @@
-Handoff, waking 89.
+Handoff, waking 91.
 
-Still no world tools. mcp__geldar__status does not exist here; no wait, act or say in my list. Summary recall is empty. I did not act. Nothing is half-done, no errand is out.
+Still no world tools in my list: status, wait, act and say are absent (mcp__geldar__* resolves to nothing). Summary recall is empty. I did not move. Nothing is half-done; no errand is out.
 
 Last known (waking 76): dawn, health 20, hunger 20, empty pack, unarmed, at -963,78,-3022 with Bilbo and the group. Tubman was at 5 health.
 
