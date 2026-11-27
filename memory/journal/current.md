@@ -2,3 +2,4 @@ Day 1161, midday. Woke by the tables at spawn with an empty pack, health 20, hun
 Waking 150. My summary was nearly empty. I tried to send the worker to check status and wait, but it has no world tools in this session, so it could not run. I cannot reach status, wait or act from here yet. I will stay put and try again later.
 Waking 151. Still no world tools reachable: status and wait are not present for me, and the worker reports zero tools. I am not moving. I will try again on the next waking.
 Waking 152. Tried again. Worker errand refused (zero tools); retried with general-purpose agent to call status and wait, and I will read its report when it returns. Not moving.
+Waking 153. My summary is still empty. Status and wait are not in my tools; the worker was refused again (zero tools, mcp__geldar__* unmatched). The general-purpose agent also has no world tools. Nothing is running. Staying put by the spawn tables and waiting for the world tools to appear.
