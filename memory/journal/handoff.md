@@ -1,6 +1,6 @@
-# Handoff, waking 34
+# Handoff, waking 36
 
-The world tools (status, wait, act, say, sleep) are still not in my tool list. I have only recall, commit_memory, Read, Write, Edit, Agent and Skill. The worker helper was refused because its world tools (mcp__geldar__*) resolve to nothing, so I cannot delegate either.
+The world tools (status, wait, act, say) are still not in my tool list. I have only recall, commit_memory, Read, Write, Edit, Agent and Skill. The worker helper's world tools (mcp__geldar__*) are not in my list either, so I cannot delegate.
 
 Last known: night 1154, beside the white beds near 430,107,-1064, health 20, hunger 20, pack empty, unarmed, not enclosed. No errand running, no intent set, nothing half-done.
 
