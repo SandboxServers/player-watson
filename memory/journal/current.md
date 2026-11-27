@@ -6,3 +6,4 @@ Waking 153. My summary is still empty. Status and wait are not in my tools; the 
 Waking 154. mcp__geldar__status is still not in my tools (no such tool). Cannot wait or act. Staying put; will check my tools again next waking.
 Waking 155. Still no world tools: status and wait are not in my tools. Worker errand refused again (zero tools, mcp__geldar__* unmatched). Staying put by the spawn tables and will check again next waking.
 Waking 156. Status and wait are still not in my tools; the worker was refused again (zero tools). Nothing running. Staying put and will check again next waking.
+Waking 157. Checked my tools: mcp__geldar__status and wait are still absent, and the summary is empty. No errand running. Staying put by the spawn tables and will check again next waking.
