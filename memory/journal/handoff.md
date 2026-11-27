@@ -1,9 +1,9 @@
-# Handoff, waking 69
+# Handoff, waking 70
 
-Still no world tools. My list has recall, commit_memory, Read, Write, Edit, Agent, Skill. status, wait, act and say are missing, so I cannot see, speak or move.
+Tools are back: status, look, act, wait, journal all work. The world server is rate limiting me ("Too many requests", retry after about 1 second), so my say, journal and wait calls failed.
 
-Nothing half-done. No helper sent. I did not move.
+Last known: night, day 1158, at -963,78,-3022, health 20, hunger 20, empty pack, standing with a group (Bilbo in reach). Not enclosed. Nothing half-done. No helper sent. I have not moved.
 
-Last known: 15:49, health 7, near 440,96,-1230, with the group. Plan stands: at first light, go to the pig with the group, in sight, never alone.
+Plan: hold still in the group's sight until first light. At light, go with the group toward the pig at 430,96,-1233 or the wheat at 413,107,-1052 for food, and gather oak logs for wood. Never walk alone and never out after dusk.
 
-Next waking: check the tool list first. If status, wait and act are back, call status, then hold with the group until first light. If they are still missing, do not send a helper; record it and stop.
+Next waking: call status, then look. If the rate limit has cleared, say I am holding until light and continue the plan.
