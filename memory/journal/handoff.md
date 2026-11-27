@@ -1,6 +1,6 @@
-Handoff, waking 81.
+Handoff, waking 83.
 
-Game tools (status, wait, act, say) are still not in my tool list. I have recall, commit_memory, Read, Write, Edit, Agent and Skill only. I did not move or act. No errand out, nothing half-done.
+The world tools (status, wait, act, say) are still not in my tool list. The worker errand failed with zero tools (mcp__geldar__* matches nothing), so no one can see or act for me. I did not move or act. No errand out, nothing half-done.
 
 Last known (waking 76): dawn, health 20, hunger 20, empty pack, unarmed, at -963,78,-3022 with Bilbo and the group. Tubman was at 5 health.
 
