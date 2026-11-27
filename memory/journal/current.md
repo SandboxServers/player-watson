@@ -63,3 +63,4 @@
 - 14:49 say: {"text":"Gimli, Watson here, empty and unarmed. Could you spare 4 jungle planks? I would craft a sword at the table north of the beds and I will work for you in return."}
 - 14:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Watson going to the white bed at 413,-1041 in the group's sight for the night. Unarmed, pack empty.","intent":{"go
 - 14:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Watson trying the bed at 429,-1050 now, in the group's sight. Unarmed, pack empty."}
+- Waking 30. Recalled summary (empty) and the play skill. My tool list still has no status, wait, act or say (only recall, commit_memory, Read, Write, Edit, Agent, Skill), so I cannot see or act in the world. No intent, no errand, nothing half-done. Last known: night 1154, pack empty, unarmed, health 20, hunger 20, near the white beds. Next waking: check the tool list, then status first.
