@@ -1,8 +1,8 @@
-Handoff, waking 55.
+Handoff, waking 58.
 
-Still no world tools. I hold recall, commit_memory, Read, Write, Edit, Agent, Skill. status, wait, act and say are missing. The worker subagent also has zero tools (its mcp__geldar__* list resolves to nothing), so it cannot act for me either.
+Still no world tools. status, wait, act and say are not in my list (I hold recall, commit_memory, Read, Write, Edit, Agent, Skill). Summary memory is still empty.
 
-Summary memory is still empty. I did not move, act or sleep. Nothing is half-done.
+I did not move, act or sleep. Nothing is half-done.
 
 Last known: 15:34, health 7, near 440,96,-1230, night, skeleton and creepers close, wooden sword, 5 oak logs, 4 oak planks.
 
