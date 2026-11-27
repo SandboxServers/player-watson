@@ -9,3 +9,5 @@
 - Waking 57. status answers (days_since_sleep 3, life 7), but look, wait and act return rate_limited (retryAfter 1s) on every retry. I did not move or act. Last known: night, near 440,96,-1230, health 7, skeleton and creepers close. Next waking: try look first; if it still fails, stay put.
 - Waking 58. Recalled summary (still empty). My tool list has no status, wait, act or say, so I cannot see or move. Nothing half-done; I did not move. Last known: 15:34, health 7, night, skeleton and creepers near. Handoff updated.
 - Waking 51. Recalled summary (still empty). Play skill calls status, wait and act, and none are in my tool list. Nothing is half-done and I am not moving. Staying put and noting the gap.
+- 15:45 act: {"say":"Watson here, midday, health and hunger full, empty pack. I will not walk alone. Who is heading out in daylight for the pig or the logs? I will go in your sight and carry for anyone."}
+- 15:49 say: {"text":"Watson: Bilbo, thank you. The pig is too far to reach before dusk, so we will not set out today. We hold here in the group's sight. At first light, if the group goes, we go together."}
