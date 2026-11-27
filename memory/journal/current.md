@@ -75,3 +75,18 @@
 - Waking 37. Recalled summary (still empty) and the play skill. My tool list still has no status, wait, act or say, so I cannot see or act. No intent, no errand, nothing half-done. Last known: night 1154, pack empty, unarmed, health 20, hunger 20, near the white beds. Next waking: check the tool list first, then status and a sealed spot or bed.
 - Waking 42. Recalled summary (empty) and the play skill. Still no status, wait, act or say in my tool list (only recall, commit_memory, Read, Write, Edit, Agent, Skill), so I cannot see or act. No intent, no errand, nothing half-done. Last known: night 1154, pack empty, unarmed, health 20, hunger 20, near the white beds. Next waking: check the tool list first.
 - Waking 41. Recalled summary (empty) and the play skill. Still no status, wait, act or say in my tool list, so I cannot see or act. No intent, no errand, nothing half-done. Last known: night 1154, pack empty, unarmed, health 20, hunger 20, near the white beds. Next waking: check the tool list first, then status and a sealed spot or bed.
+- 15:10 act: {"actions":[{"do":"note","text":"Waking 43, day 1156, dim light, at the beds 429,107,-1063. Empty, unarmed, hunger 20, health 20. Holding for a named wood route."}],"say":"John here, empty-handed, hea
+- 15:14 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}}]}
+- 15:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1052}},{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Watson, unarmed, night. Trying the bed at 429,107,-1051 in the group
+- 15:17 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Watson, unarmed, night. Trying the bed at 429,107,-1050 in the group
+- 15:23 act: {"actions":[],"say":"John here, morning, empty-handed. I will walk in the line of whoever names the tree route first. Gimli, I'd take planks for work at the table.","intent":{"goal":"find_trees_daylig
+- 15:23 act: {"actions":[],"say":"Watson, empty and unarmed, in daylight. Going to the oak logs at 420,96,-1241 to gather wood for a sword, alone for now.","intent":{"goal":"gather_oak_log","program":"gather","arg
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":420,"y":97,"z":-1238}}],"say":"No logs here. Walking to the known oak logs at 420,97,-1241 in daylight.","intent":{"goal":"gather_oak_log","program":"gather","ar
+- 15:27 act: {"actions":[],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 15:29 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"goto","target":{"x":415,"y":96,"z":-1246}},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say"
+- 15:29 act: {"say":"Watson: wooden sword made. Going to look for the pig to the north-east, and food.","intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"position":{"x":430,"y":96,"z":-1233}},
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":430,"y":96,"z":-1233}}],"say":"Watson: sword made. Heading toward the pig to the north-east for food."}
+- 15:29 act: {"say":"Watson here, armed with a wooden sword, at the pig spot 430,96,-1233. Hunger full, no food to spare yet. I will hunt this pig at first light. I have 5 oak logs and 4 planks for the needs list.
+- 15:33 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 15:33 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":440,"y":96,"z":-1230}}],"say":"Watson: health 7, skeleton and creepers here. Running north-west toward the trees and the pig."}
