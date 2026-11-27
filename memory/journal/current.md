@@ -37,3 +37,16 @@
 - 14:25 act: {"actions":[],"say":"Mark, Watson here. Yes, please: I would be grateful for 4 oak logs. I can give you my wheat seeds in return. Tell me where you stand and I will come to you in daylight."}
 - 14:26 act: {"actions":[],"say":"Watson: I will leave Mark's logs and porkchop for the hungry, Scotty first. I am going to look for trees of my own, in daylight, and will report back.","intent":{"goal":"find_wood
 - 14:26 act: {"actions":[],"intent":{"goal":"find_wood_again","program":"explore","arguments":{"legs":6,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"li
+- 14:28 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 14:29 act: {"intent":{"goal":"find_trees_far","program":"explore","arguments":{"legs":6,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 14:30 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 14:32 act: {"intent":{"goal":"craft_sword","program":"craft","arguments":{"item":"wooden_sword","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"
+- 14:32 act: {"intent":{"goal":"craft_sword","program":"craft","arguments":{"item":"wooden_sword","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"
+- 14:34 act: {"actions":[{"do":"goto","target":{"x":426,"y":96,"z":-1252}}],"say":"Spider and creeper in the dark. Moving east away from them."}
+- 14:34 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stick","count":1},{"
+- 14:34 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}],"say":"I have a wooden sword now. Fighting the spider."}
+- 14:35 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
+- 14:35 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 14:35 act: {"actions":[{"do":"attack","target":"spider"}],"say":"A spider is on me. Fighting it."}
+- 14:35 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 14:35 act: {"actions":[{"do":"attack","target":"zombie"}]}
