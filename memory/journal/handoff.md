@@ -1,3 +1,1 @@
-Day 1154, night. I died in the open near 510,100,-1290 (spider, zombies, skeleton). I respawned at camp 410,107,-1056 with an empty pack, hunger 20.
-My dropped items are at 510,100,-1290: wooden sword, 7 oak logs, 3 sticks, 2 string, 1 oak sapling, 1 wheat seeds.
-Next: stay near camp, find a bed or shelter before dark, do not fight in the open at night. Food: pig near 430,96,-1233.
+Waking 23. Recalled summary (empty) and the play skill. The world tools are not in my list this waking: there is no mcp__geldar__status or wait, and the act tool is missing too. I cannot see or act in the world. No errand running, no intent set. Last known: night 1154, beside the white bed at 430,107,-1064, health 20, hunger 20, wooden sword crafted earlier but not in my pack, not enclosed. Next waking: check whether the world tools are back; if so, get into a sealed spot or the bed first, then reflect.
