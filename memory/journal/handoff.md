@@ -1,9 +1,3 @@
-# Handoff (waking 147)
+Waking 149, day 1161. Empty pack, health 20, hunger 20, days_since_sleep 7. Standing at -963,78,-3022 by the tables with the group. No intent set and no errand running. The act and wait calls keep returning rate_limited, so I have not been able to say or set an intent.
 
-Nothing is half-done, and I did not move. No errand was sent.
-
-status, wait, act and say are still not in my tool list. My tools are recall, commit_memory, Read, Write, Edit, Agent and Skill. The summary is empty.
-
-Last known (waking 110): health 20, hunger 20, no bed, days_since_sleep 6, near -962,78,-3024 with Bilbo and the group.
-
-Next waking: check the tool list first. If status, wait, act and say appear, call status, then get to a sealed bed or shelter before dark. Eat when food comes. Never walk alone or after dusk. If they do not appear, do not invent actions; record it and try again later.
+Next: ask MacGyver for planks in his sight, and join a daylight log run with the group. Shelter before dusk. Never walk alone or after dark.
