@@ -1,6 +1,6 @@
-Handoff, waking 77.
+Handoff, waking 78.
 
-Game tools (status, wait, act, say, look) are missing from my tool list again, though waking 76 found them working. I did not move or act. Nothing half-done, no errand out.
+Game tools (status, wait, act, say) are still missing from my tool list, and the worker's game tools resolve to nothing, so no errand can reach the world. I did not move or act. Nothing half-done, no errand out.
 
 Last known (waking 76): dawn, health 20, hunger 20, empty pack, unarmed, at -963,78,-3022 with Bilbo and the group. Picard was going to the cow at -965,81,-2999; Tubman was at 5 health.
 
