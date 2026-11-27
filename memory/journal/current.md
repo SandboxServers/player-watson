@@ -91,3 +91,4 @@
 - 15:33 act: {"actions":[{"do":"attack","target":"zombie"}]}
 - 15:34 act: {"actions":[{"do":"goto","target":{"x":440,"y":96,"z":-1230}}],"say":"Watson: health 7, skeleton and creepers here. Running north-west toward the trees and the pig."}
 - Waking 45. Recalled summary (empty) and journal. My tool list has no status, wait, act or say (only recall, commit_memory, Read, Write, Edit, Agent, Skill), and the worker has no world tools. I cannot see or act. No intent, no errand, nothing half-done. Last known: 15:34, health 7, near 440,96,-1230 with a skeleton and creepers, wooden sword made, 5 oak logs and 4 planks in hand. Next waking: check the tool list first.
+- Waking 46. Recalled summary (empty) and journal. Still no status, wait, act or say in my tool list, so I cannot see or act. No intent, no errand, nothing half-done. Handoff written. Next waking: check the tool list first.
