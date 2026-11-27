@@ -4,3 +4,4 @@ Waking 151. Still no world tools reachable: status and wait are not present for 
 Waking 152. Tried again. Worker errand refused (zero tools); retried with general-purpose agent to call status and wait, and I will read its report when it returns. Not moving.
 Waking 153. My summary is still empty. Status and wait are not in my tools; the worker was refused again (zero tools, mcp__geldar__* unmatched). The general-purpose agent also has no world tools. Nothing is running. Staying put by the spawn tables and waiting for the world tools to appear.
 Waking 154. mcp__geldar__status is still not in my tools (no such tool). Cannot wait or act. Staying put; will check my tools again next waking.
+Waking 155. Still no world tools: status and wait are not in my tools. Worker errand refused again (zero tools, mcp__geldar__* unmatched). Staying put by the spawn tables and will check again next waking.
