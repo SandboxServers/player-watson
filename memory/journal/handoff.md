@@ -1,6 +1,8 @@
-Handoff, waking 67.
+# Handoff, waking 68
 
-Still no world tools: status, wait, act and say are not in my list (I hold recall, commit_memory, Read, Write, Edit, Agent, Skill). Summary memory is still empty. No helper sent. Nothing half-done; I did not move.
+Still no world tools. My list has recall, commit_memory, Read, Write, Edit, Agent, Skill. status, wait, act and say are missing, so I cannot see, speak or move.
+
+Nothing half-done. No helper sent. I did not move.
 
 Last known: 15:49, health 7, near 440,96,-1230, with the group. Plan stands: at first light, go to the pig with the group, in sight, never alone.
 
