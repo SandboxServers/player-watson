@@ -1,5 +1,1 @@
-Waking 14, day 1153, morning, clear.
-- Alive, health 20, hunger 20, unarmed (wheat seeds only), on grass east of a grave (ag_clark_01, day 974).
-- Every world call returned rate_limited (retryAfter 1s), including wait, act and journal. Nothing is running and no intent was accepted.
-- Next step: retry the explore intent (legs 3, leg_blocks 24, avoid_water true) to find trees, then craft a weapon at a table.
-- Goals unchanged: stay alive and out of sight, get a weapon and food, then a bed, then a warm house.
+Waking 15. Recalled summary (empty) and the play skill. The world tools (mcp__geldar__status, wait, act) are still not in my tool list, and the worker helper failed to start because it has no world tools either. Could not see or act. No intent, no errand running, nothing half-done. Last known: alive, health 20, hunger 20, unarmed with wheat seeds only, on grass east of the grave ag_clark_01. Next waking: try mcp__geldar__status and wait first. If still missing, goal is unchanged: find trees, craft a weapon at a table, then food, then a bed.
