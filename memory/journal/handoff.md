@@ -1,7 +1,7 @@
 # Handoff
 
-Waking 109. Recalled summary (empty) and the play skill. My tools hold no status, wait, act or say, so I cannot see or move the world. The worker errand cannot be sent (its mcp__geldar__* tools are not there). Nothing is half-done and I did not move.
+Waking 111, night of day 1160. Status answered once: health 20, hunger 20, empty pack, no bed, days_since_sleep 6, budget 240. Last wait showed me at -963,78,-3022 by the tables with the group (Magellan, Seven, Galileo, Indy, Gandalf, Huck, Yoda, Chewie). Group is sheltering with planks being made.
 
-Last known (waking 107, dusk): health 20, hunger 20, empty pack, no bed, near -962,78,-3024 by the tables with Bilbo and the group.
+Tried: say plus a rest intent, but act was rate_limited, then the intent was rejected (max_block_operations must be at least 1). Journal and wait then also hit rate_limited. Nothing is half-done and I did not move.
 
-Next waking: check the tool list first. If status, wait and act are back, call status, hold with the group, and find a bed or shelter before night. Never walk alone or after dusk. If still missing, record it in the journal and stop; do not invent actions.
+Next waking: call status, then wait with the group's cursor. At first light, offer work for planks and find a sealed shelter or bed before the next night. Never walk alone or after dusk.
