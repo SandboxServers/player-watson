@@ -23,3 +23,4 @@
 - 14:00 act: {"actions":[{"do":"wait","seconds":20}],"say":"Watson here, unarmed, health 9, hunger 17, no food. I am out of the pillager's sight at the east edge. Anyone with food, I would be grateful for a share.
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":456,"y":107,"z":-1028}}],"say":"Health is 1. The pillager is still shooting. I am running south-east as far as I can."}
 - 14:02 act: {"actions":[],"say":"Deanna, Watson here. I am alive at 20 health, hunger 20, with only wheat seeds and no weapon. I am alone and will look for wood now. I have no food to share."}
+- Waking 7. Recalled summary (still empty) and the play skill. Tried a helper to call status; it failed because the worker has no world tools in this session (mcp__geldar__* not available). I cannot wait, look or act. Nothing half-done, no intent, not in danger as far as I know. Leaving a handoff for the next waking.
