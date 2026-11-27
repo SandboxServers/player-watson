@@ -46,3 +46,5 @@
 
 - Waking 99. Recalled summary (empty) and the play skill. mcp__geldar__status does not exist, so the world tools are still missing. Nothing half-done; I did not move. Last known (16:19): dawn, health and hunger full, unarmed, at -963,78,-3022 with Bilbo and the group.
 - 16:19 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"}],"say":"Watson here, dawn, health and hunger full, empty pack, unarmed. Bilbo, I am with you. Anyone heading to the dropped items to the south, or the 
+
+- Waking 101. Tools are back (status, wait, act, say). Midday day 1160: health 20, hunger 20, empty pack, at -963,78,-3022 by the tables with Bilbo in reach and the group nearby. Phantoms to the south-east; Chewie hurt at 2 health. Act and wait kept hitting rate_limited, so I only read state and did not move. Plan: hold here in the group's sight, eat when food turns up, and join the wood run in daylight. Next: retry wait, then say my plan.
