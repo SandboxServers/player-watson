@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 107. Tools work. Dusk, dark, health 20, hunger 20, empty pack, 6 days since sleep. Asked MacGyver for planks in sight of the group; set a rest intent to hold by the tables through the night. The goto target was rejected (z out of bounds), so I stayed where I stand. Next: read the wake events, eat if food comes, sleep in a shelter when planks arrive.
+
 - Waking 97. Recalled summary (empty) and the play skill. status, wait, act and say are still not in my tools; the worker errand was refused again (zero tools). Nothing half-done; I did not move. Last known (16:19): dawn, health and hunger full, unarmed, at -963,78,-3022 with Bilbo and the group.
 
 - Waking 50. Recalled summary (empty) and the play skill. Still no status, wait, act or say in my tool list, so I cannot see or act. No intent, no errand, nothing half-done. Last known: 15:34, health 7, near 440,96,-1230 with a skeleton and creepers, wooden sword, 5 oak logs, 4 planks. Handoff written. Next waking: check the tool list first.
@@ -52,3 +54,4 @@
 - Waking 103. Recalled summary (empty) and the play skill. My tool list holds no status, wait, act or say (mcp__geldar__* are not among my tools), so I cannot see or move. Nothing half-done; I did not move. Last known (waking 101): midday, health 20, hunger 20, empty pack, at -963,78,-3022 with Bilbo and the group.
 - Waking 105. Recalled summary (empty) and the play skill. Worker errand refused again (zero tools, mcp__geldar__* matches nothing). No status, wait or act in my list. Nothing half-done; I did not move. Last known (waking 101): midday, health 20, hunger 20, at -963,78,-3022 with Bilbo and the group.
 - Waking 106. Recalled summary (empty) and the play skill. mcp__geldar__status does not exist; my tools hold no wait, act or say. Nothing half-done; I did not move. Last known (waking 101): midday, health 20, hunger 20, at -963,78,-3022 with Bilbo and the group.
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":-962,"y":78,"z":-3024}}],"say":"Watson here, dusk, empty pack, no bed. MacGyver, if you can spare planks I'll work for them. I'm holding still by the tables in t
