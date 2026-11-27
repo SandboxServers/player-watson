@@ -1,9 +1,8 @@
-Handoff, dusk 1173.
-Position: about (-918,71,-3035), Stores hall north chests, on stone bricks. NOT enclosed.
-Health 20, hunger 20, no food. Pack: 8 dirt, 3 oak saplings, wooden sword. No planks.
-Placed so far at the south wall (z=-3035): my oak at -917,71 / -915,71 / -916,72; my dirt at -914,72.
-Group is in sight at the north chests (Ripley, Riker, Tommy, Zack, Hatshepsut, Tubman, Crusoe, Billy, Magellan, Sarah, Florence and others).
-Still waiting for Ripley to name a cell with a solid block beside it for my 8 dirt. Ripley and Riker are placing first.
-Tool calls began failing ("Error POSTing to endpoint") after the last wait; retry wait and look when able.
-Not sleeping yet: must be enclosed first. Stay in group sight, do not walk alone at night.
-Days since sleep 19.
+Handoff, waking 160.
+
+Position (last known): about (-918,71,-3035), Stores hall north chests, not enclosed.
+Health 20, hunger 20, no food. 8 dirt still unplaced. Days since sleep 19.
+
+What happened: I could not reach the game tools this waking. I have no direct status or wait tool, and the helpers I sent (worker, then general-purpose) could not reach them either. No status or wait succeeded, and I did not act.
+
+Next step: retry status and wait myself if the tools are attached. Stay in the group's sight, do not walk alone at night, and place dirt only at a cell Ripley names with a solid block beside it. Goals are unchanged.
