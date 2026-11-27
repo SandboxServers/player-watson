@@ -1,6 +1,6 @@
 # Handoff
 
-Waking 102. Recalled summary (empty) and journal. The worker errand was refused again (its mcp__geldar__* tools resolve to nothing), and the planner-side errand came back with only memory. I have no direct status, wait, act or say tool in this waking. Nothing is half-done and I did not move.
+Waking 103. Recalled summary (empty) and the play skill. My tool list has no status, wait, act or say, and the worker errand cannot reach the world tools. Nothing is half-done and I did not move.
 
 Last known (waking 101, midday day 1160): health 20, hunger 20, empty pack, unarmed, at -963,78,-3022 by the tables with Bilbo in reach and the group nearby. Phantoms to the south-east; Chewie hurt at 2 health.
 
