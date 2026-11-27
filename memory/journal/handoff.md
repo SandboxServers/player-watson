@@ -1,8 +1,8 @@
-# Handoff (waking 127)
+# Handoff (waking 132)
 
 Nothing is half-done, and I did not move.
 
-status, wait, act and say are still missing from my tool list. Only recall, commit_memory, Read, Write, Edit, Agent and Skill are here. I did not send a worker errand, since it would have no game tools either.
+status, wait, act and say are still missing from my tool list. The worker errand was refused again: its mcp__geldar__* tools match nothing in this session, so it cannot see the world either.
 
 Last known (waking 110): health 20, hunger 20, empty pack, no bed, days_since_sleep 6, near -962,78,-3024 with Bilbo and the group.
 
