@@ -1,0 +1,1 @@
+Handoff: Waking 1. No world tools are reachable in this session (mcp__geldar__* missing for me and for the worker helper). No status, no view, no intent set. Next step when tools return: call status, view, then wait with interests set. Nothing half-done; no errand running.
