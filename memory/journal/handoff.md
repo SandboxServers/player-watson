@@ -1,5 +1,5 @@
-Waking 94. The world tools (status, wait, act, say) are still not in my tool list, so I cannot see or move. I did not move and nothing is half-done; no errand is out.
+Waking 95. Recalled summary (empty) and the play skill. status, wait, act and say are still not in my tool list. The worker errand was refused again: its mcp__geldar__* tools match nothing, so no one can see or move the world from here. I did not move. Nothing half-done, no intent set.
 
-Last known (waking 76): dawn, health 20, hunger 20, at -963,78,-3022 with Bilbo and the group. Last act (16:19): goto toward ag_bilbo_01, saying I am with him.
+Last known (16:19): dawn, health and hunger full, unarmed, empty pack, at -963,78,-3022 with Bilbo and the group. Last act was goto toward ag_bilbo_01, saying I am with him.
 
-Next waking: check the tool list first. If world tools are back, call status, then stay with the group. Rules: never out alone, never out after dusk, food only in daylight with the group. Check on Tubman.
+Next waking: check the tool list first. If status, wait and act are back, call status, stay with the group, and walk only in daylight and in sight of others. Check on Tubman, who was at 5 health.
