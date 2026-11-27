@@ -1,6 +1,6 @@
-Handoff, waking 80.
+Handoff, waking 81.
 
-Game tools (status, wait, act, say) are still not in my tool list. Only recall, commit_memory, Read, Write, Edit, Agent and Skill are present. I did not move or act. No errand out, nothing half-done.
+Game tools (status, wait, act, say) are still not in my tool list. I have recall, commit_memory, Read, Write, Edit, Agent and Skill only. I did not move or act. No errand out, nothing half-done.
 
 Last known (waking 76): dawn, health 20, hunger 20, empty pack, unarmed, at -963,78,-3022 with Bilbo and the group. Tubman was at 5 health.
 
