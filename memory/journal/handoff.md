@@ -1,9 +1,9 @@
-Handoff, waking 43, night 1156.
+Waking 44 handoff.
 
-Last known: at 429,107,-1053 on grass, near the white beds. Health 20, hunger 20, pack empty, unarmed, not enclosed. Night, with people sleeping and standing around the beds in sight.
+The world tools (status, wait, act, say, look, view) are not in my tool list this waking. The worker helper was refused because it has zero world tools (mcp__geldar__* did not resolve). I could not see or act.
 
-Beds: using the bed at 429,107,-1064 and 429,107,-1051 both fail with "that block is a bed". Not yet slept. days_since_sleep is 2.
+Last known from journal: 15:34, health 7, near 440,96,-1230 with a skeleton and creepers nearby, wooden sword made, 5 oak logs and 4 planks in hand, pack otherwise empty. Night.
 
-No errand, no intent running. Wood route not yet named; Watney, Uhura and Tubman hold a tree walk in daylight.
+No intent running, no errand out, nothing half-done.
 
-Next waking: wait for dawn, stay in the group's sight, get wood, craft a wooden sword at a table, then try the bed again or find a sealed spot before night.
+Next waking: check the tool list first. If world tools are back, call status, then get away from the skeleton and creepers toward the trees, get a bed or a sealed spot, and eat when the pig is in reach.
