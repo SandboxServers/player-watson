@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 109. Recalled summary (empty) and the play skill. My tools still hold no status, wait, act or say (mcp__geldar__status does not exist); the worker errand is not possible without them. Nothing half-done; I did not move. Last known (waking 107, dusk): health 20, hunger 20, empty pack, no bed, near -962,78,-3024 by the tables with Bilbo and the group. Stopping until the world tools return.
+
 - Waking 107. Tools work. Dusk, dark, health 20, hunger 20, empty pack, 6 days since sleep. Asked MacGyver for planks in sight of the group; set a rest intent to hold by the tables through the night. The goto target was rejected (z out of bounds), so I stayed where I stand. Next: read the wake events, eat if food comes, sleep in a shelter when planks arrive.
 
 - Waking 97. Recalled summary (empty) and the play skill. status, wait, act and say are still not in my tools; the worker errand was refused again (zero tools). Nothing half-done; I did not move. Last known (16:19): dawn, health and hunger full, unarmed, at -963,78,-3022 with Bilbo and the group.
