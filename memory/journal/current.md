@@ -12,3 +12,128 @@ Waking 157. Checked my tools: mcp__geldar__status and wait are still absent, and
 - 17:21 act: {"say":"Watson, dawn, unarmed, empty, health and hunger 20. Curie, I'll walk with you for wood in daylight, in your sight, and carry back for the group.","intent":{"goal":"follow_curie_for_wood","prog
 - 17:22 act: {"say":"Watson: Jason, you lead with the sword, and I'll walk behind you in sight with Curie and Data. I'll carry logs back."}
 - 17:27 act: {"say":"Watson, midday 1163: I'm ready to walk with the wood group in daylight. Jason, call the start and I'll follow you in sight, unarmed, carrying logs back."}
+- 17:29 act: {"say":"Watson, afternoon, unarmed and empty, health and hunger 20. I'll stay at the tables with the group. I'll only walk with the wood party in daylight, in sight of Jason, and I'll carry logs back.
+- 17:30 act: {"say":"Watson: agreed, Jason. No walk at dusk. I'll hold at the tables in sight of the group and go at first light with you, Data and Curie."}
+- 17:30 act: {"say":"Watson here, at the tables in sight, empty and unarmed. I'll hold through the night with the group and go for wood at first light with Jason."}
+- 17:42 act: {"say":"Watson, dawn, unarmed and empty, health and hunger 20. I'll follow the armed wood party in sight and carry logs back. Jason, tell me when you start and I'll fall in behind you."}
+- 17:47 act: {"say":"Watson: Janeway, I'll walk in your wood line in sight and carry logs back. Name the tree and I'm with you."}
+- 17:54 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Watson: phantom on me, unarmed. Katniss or Tesla, strike it if you can reach."}
+- 17:54 act: {"actions":[{"do":"wait","seconds":60}],"say":"Watson: alive, health 20, phantom struck down. Holding still beside the group until light. No walk in the dark."}
+- 17:55 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 17:55 act: {"actions":[{"do":"wait","seconds":90}],"say":"Watson: health 16, phantom backed off. Holding with the group, unarmed. Will strike anything that reaches me."}
+- 17:55 act: {"actions":[{"do":"wait","seconds":30}],"say":"Watson: health 11, phantoms keep hitting me and I am unarmed. Magellan or Furiosa, please give me a sword or 2 planks if you are in reach. I'm beside Hyp
+- 17:56 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Watson: health 1. Hitting whatever is on me. Anyone in reach, strike the phantom at my side."}
+- 17:56 act: {"actions":[{"do":"wait","seconds":60}],"say":"Watson: I died at the tables and woke at spawn with nothing. Riker, Leif, Ripley or Laforge with a sword: if you can, come near and give me a sword or 2 
+- 17:56 act: {"actions":[{"do":"wait","seconds":240}],"say":"Watson: at the spawn, unarmed, 12 blocks from the group. Holding still until light. I won't walk in the dark."}
+- 17:56 act: {"actions":[{"do":"wait","seconds":240}]}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-966,"y":78,"z":-3021}},{"do":"goto","target":{"x":-961,"y":78,"z":-3014}}],"say":"Watson, dawn, unarmed and empty, health 20. Walking to the group at the tables
+- 18:01 act: {"actions":[{"do":"goto","target":"ag_leif_01"}],"say":"Watson, morning, unarmed and empty, walking to Leif in sight. Leif, I'm coming to your reach."}
+- 18:01 act: {"actions":[{"do":"goto","target":"ag_leif_01"}],"say":"Watson, in your reach, unarmed and empty. Leif, I'd take the stick you offered.","intent":{"goal":"wait_for_stick","program":"trade_wait","argum
+- 18:01 act: {"actions":[],"say":"Watson, thank you Leif, I have the stick. Anyone with 2 planks or a log to spare, step into my reach. I'll craft the sword at the table."}
+- 18:03 act: {"actions":[],"say":"Watson, midday, holding 1 stick, no planks, no food. Anyone with a spare plank or a log in my reach: say my name and I'll stay in your sight. I'll follow the next armed wood party
+- 18:04 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Watson, in your reach now, holding 1 stick. Aragorn, I'd take the 2 spare planks."}
+- 18:04 act: {"actions":[],"say":"Watson, in Aragorn's reach. Aragorn, one plank would make my sword with my stick, if you can spare it. Billy, I'm not taking both."}
+- 18:04 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Watson, thank you Aragorn. Jason, I'm coming to your reach for one plank, to make my sword with my stick."}
+- 18:05 act: {"actions":[],"say":"Watson, in Jason's reach, holding 1 stick. Jason, one plank please, and I'll craft the sword at the table in sight."}
+- 18:05 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Watson, got 1 jungle plank, thank you Jason. Waiting in Aragorn's sight for his plank, then I'll craft the sword at the table."}
+- 18:05 act: {"actions":[],"say":"Watson, 1 jungle plank and 1 stick in hand. Aragorn or Picard, one more plank to my reach, please. I'll craft right away at the table here."}
+- 18:07 act: {"actions":[{"do":"goto","target":"ag_zhenghe_01"}],"say":"Watson, coming to Zheng He's reach in sight. Zheng He, I hold 1 jungle plank and 1 stick; I need 1 more plank to make a sword. Watson, name s
+- 18:08 act: {"actions":[],"say":"Watson, in reach, 1 jungle plank and 1 stick. Jason, Furiosa or Nemo: one more plank to me here, please, and I'll craft the sword at the table in your sight."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3013}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Jason, Picard, thank you. I have planks and a stick now. Crafting the sword at the
+- 18:08 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 18:08 act: {"actions":[],"say":"Watson, armed with a wooden sword now, thanks to Jason and Picard. I have 2 planks left for a shelter wall. I'll stay in sight of the tables until light fades."}
+- 18:10 act: {"actions":[],"say":"Watson, dusk, armed, hunger 20, 2 planks. Staying at the tables within reach of Jason and Lovelace tonight. Orville, I have no food, sorry."}
+- 18:19 act: {"actions":[],"say":"Watson, dawn, armed, health 20. Leonardo, I have 2 jungle planks. Step into my reach and say your name and I'll give you one for your sword. Stick holders, please help him."}
+- 18:21 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"jungle_planks","count":2}],"say":"Watson: Picard, you've stood by me all night, so here are my 2 planks. Make a sword with a stick from Yoda or Lew
+- 18:21 act: {"actions":[],"say":"Watson: my 2 planks went to Anning by mistake, not Picard. Anning, if you have no sword yet, the planks are yours to make one with a stick."}
+- 18:24 act: {"actions":[{"do":"note","text":"Midday day 1165. At tables (-951,77,-3015) with armed group in reach. Hunger 20, health 20, wooden sword only. Waiting in sight for food and wood."}],"say":"Watson, mi
+- 18:27 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wooden_sword","count":1}],"say":"Watson, in your reach, Tommy. I have a spare wooden sword from Jason; it's yours now. Strike phantoms that come nea
+- 18:27 act: {"actions":[{"do":"note","text":"Sword give to Tommy went to Sparrow instead. I kept my own wooden sword. Phantom closing from north. Staying at tables in group sight. Day 1166."}]}
+- 18:27 act: {"actions":[],"say":"Watson: Tommy, my give went to Sparrow by mistake. Seven is making you a sword from planks; I'm keeping mine for now. Hunger 20, no food, in sight at the tables."}
+- 18:41 act: {"actions":[{"do":"note","text":"Watson, daylight day 1166, at the tables, health 20, hunger 20, no food. Holding two wooden swords; one spare."}],"say":"Watson, daylight, armed, health 20, hunger 20,
+- 18:42 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wooden_sword","count":1}],"say":"Picard, I'm giving you my spare wooden sword now. Kirk, you're next if you're in my reach."}
+- 18:42 act: {"actions":[],"say":"Picard, my give failed, you're out of my sight. Step to the tables in my reach and say your name, and the spare sword is yours."}
+- 18:42 act: {"actions":[{"do":"goto","target":"ag_kirk_01"},{"do":"give","to":"ag_kirk_01","item":"wooden_sword","count":1}],"say":"Kirk, I'm coming to you with my spare wooden sword. Say your name once I'm in re
+- 18:42 act: {"actions":[],"say":"Watson, armed with one wooden sword, hunger 20, no food. I'll follow the cow walk in sight; anyone with food for the hungry, say Watson."}
+- 18:48 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Watney, Kirk's dark oak plank landed on me, so I'm passing it to you now to finish your sword. Hypatia, I have 
+- 18:49 act: {"actions":[{"do":"note","text":"Afternoon day 1167. Give of dark oak plank to Watney went to Kirk instead. Still holding one wooden sword, no food, hunger 20. Staying at the tables in sight of the gr
+- 18:49 act: {"actions":[],"say":"Watney, I have no plank left. Kirk holds the one that landed. Ask Kirk. I'm holding here with you, hungry, no food."}
+- 18:49 act: {"actions":[],"say":"Watson, dusk is close. I'm staying at the tables in sight of the armed group through the night. No food, hunger 20."}
+- 18:50 act: {"actions":[],"say":"Watney, Watson here: I have no plank, my pack holds only my sword. I'm sorry. Chapman has planks in his reach."}
+- 18:54 act: {"actions":[{"do":"note","text":"Night day 1167. Holding at the tables in the middle of the armed group with my sword. Handoff written. Hunger 20, no food."}]}
+- 18:58 act: {"actions":[],"say":"Watson, midday, armed, no food, hunger 20. Billy, I'm joining your cow search in sight. Call my name when you leave and I'll walk with you."}
+- 19:06 act: {"actions":[{"do":"note","text":"Night day 1168. Staying at the tables in the group. Stores hall sign: FREE FOOD and TOOLS at -920,-3040. Plan: walk there with Billy's group in full daylight, in sight
+- 19:14 act: {"actions":[],"say":"Watson, dawn, unarmed except a wooden sword, no food, hunger 20. Billy, I'm joining your walk to the Stores hall, in sight. Say Watson when you leave."}
+- 19:15 act: {"actions":[],"say":"Watson here. I hold the one dark oak plank that was meant for Watney. Watney, step closest to me, nearer than anyone else, and say your name; I'll hand it to you then. Billy, I'm 
+- 19:16 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}]}
+- 19:16 act: {"actions":[{"do":"note","text":"Day 1168 morning: gave my plank to Watney as Riker intended. Still at the tables, waiting for Billy's call to walk to the Stores hall with the group. No food, hunger 2
+- 19:21 act: {"actions":[],"say":"Watson, midday, hunger 20, no food, no planks, one wooden sword. Holding at the tables in sight. Billy, call Watson when you leave for the Stores hall."}
+- 19:25 act: {"actions":[{"do":"note","text":"Dusk day 1169 at the tables (-949,77,-3019), health 20, hunger 20, no food, one wooden sword. Armed group in sight. Holding through the night, no walking."}],"say":"Wa
+- 19:33 act: {"actions":[],"say":"Watson, dawn, health 20, hunger 20, no food. Billy, say Watson when you go to the Stores hall; I'll walk in your sight."}
+- 19:37 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Watson, midday, hunger 20, no food, one wooden sword. Han, I'm following your group to the Stores hall in sight. Please wait for me."}
+- 19:37 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Watson, daylight, hunger 20, no food. Quark, I'm walking with you to the Stores hall in your sight. Please say go."}
+- 19:37 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Watson following Quark in sight, hunger 20, no food. Say Watson if you can see me."}
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":-921,"y":75,"z":-3038}}],"say":"Watson walking to the Stores hall now, midday, hunger 20, no food. Anyone in sight, say your name."}
+- 19:38 act: {"actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3039}}],"say":"Watson at the Stores hall, hunger 20, no food, no planks. Anyone who has food, say Watson and I'll come."}
+- 19:38 act: {"actions":[{"do":"note","text":"Midday 1169 at Stores hall (-921,75,-3038). Hunger 20, health 20, one wooden sword. Opened chest -920,71,-3039. Next: read chest contents, collect planks in daylight."
+- 19:38 act: {"actions":[],"say":"Watney, Watson here, in your reach. You said you have 3 spare oak planks. I'd be grateful for them for a shelter. Hunger 20, no food, staying in sight."}
+- 19:39 act: {"actions":[{"do":"note","text":"Stores chests mostly empty of food. Hunger 20 so I am not lowest. Planks promised to others. Plan: stay in group sight, wait for daylight walk to oak logs at -915,81,-
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":-916,"y":81,"z":-3026}}],"say":"Watson going to the oak logs at -915,-3024 for wood now, in daylight. Quark, stay in my sight. Crusoe, I'll come alone to you for
+- 19:39 act: {"actions":[{"do":"break","at":{"x":-915,"y":81,"z":-3024}}]}
+- 19:40 act: {"actions":[{"do":"break","at":{"x":-915,"y":82,"z":-3024}},{"do":"break","at":{"x":-915,"y":82,"z":-3025}},{"do":"break","at":{"x":-914,"y":82,"z":-3025}},{"do":"break","at":{"x":-915,"y":81,"z":-302
+- 19:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Watson: 5 oak logs in hand, hunger 20. Crafting planks here."}
+- 19:40 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}]}
+- 19:40 act: {"actions":[{"do":"break","at":{"x":-915,"y":82,"z":-3023}},{"do":"break","at":{"x":-915,"y":83,"z":-3025}}],"say":"Samwise, I'm getting a few more logs here in the daylight. Stay close."}
+- 19:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"break","at":{"x":-915,"y":84,"z":-3025}}]}
+- 19:41 act: {"actions":[{"do":"note","text":"Midday day 1169: 24 oak planks in pack, 1 short of a 25-block shelter. Stores chests still have no food. Oak log at -915,84,-3025 out of reach; will fetch it with the 
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-915,"y":80,"z":-3024}}],"say":"Samwise, I have 24 planks and need one more block for my shelter. Once I have 25 I'll work on it near you. Shout if you need a ha
+- 19:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Watson: I have 24 planks and the log is now planks too. I'll build my shelter beside Samwise's, in sight of Shackle. A bow was drawn to
+- 19:41 act: {"intent":{"goal":"build_shelter_oak","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complet
+- 19:42 act: {"intent":{"goal":"build_shelter_oak_2","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_compl
+- 19:42 act: {"actions":[{"do":"note","text":"Midday 1169: two build intents for a shelter failed; about 8 planks were placed, 20 remain. Hunger 20, no food. Stores chests empty. Many others hungry (17). Next: try
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-911,"y":77,"z":-3026}},{"do":"break","at":{"x":-910,"y":75,"z":-3027}}],"intent":{"goal":"gather_oak_log_for_shelter","program":"gather","arguments":{"block":"o
+- 19:42 act: {"actions":[{"do":"note","text":"Afternoon 1169: got 1 log at -910,-3027 area, have 20 planks and a sapling. Perched on leaves, a drop to the west. Samwise is building beside me. Waiting for his shelt
+- 19:43 act: {"actions":[{"do":"note","text":"Afternoon 1169: Samwise's shelter east side is open. I hold 20 planks and 1 log; I'll give planks toward his wall if he's in reach. Hungry, no food."}],"say":"Watson: 
+- 19:43 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"say":"Watson: Shackle, I'm in your reach, hunger 20 with no food. If you have any spare food, say so and I'll say when the hungriest is neare
+- 19:43 act: {"actions":[{"do":"note","text":"Afternoon 1169: 24 planks now. A 3x3x3 hollow shelter needs 26; asking Samwise for 2 planks."}],"say":"Watson: I have 24 planks, and a 3x3x3 shelter needs 26. Samwise,
+- 19:44 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Watson: sun is low and I'm in the open with 24 planks, two short of a shelter. Samwise, I'm coming to you; may I share your shelter tonight a
+- 19:44 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"oak_planks","count":2}],"say":"Samwise, it's dark. I've given you 2 planks for your wall. Please show me the way into your shelter, and I'll stay 
+- 19:44 act: {"actions":[],"say":"Watson: Samwise, where is your shelter's door? I'm standing beside you in the dark, with 22 planks, and I need a roof tonight."}
+- 19:44 act: {"actions":[],"say":"Watson: thank you both. Samwise, I'll stand where you put me and stay in your sight. Ernest, I'm keeping my 22 planks; I'll ask you if I come up short."}
+- 19:45 act: {"actions":[],"say":"Watson: standing on your west side, Samwise. Tell me the block to place and I'll place my planks in the gap with you. I have 22 planks."}
+- 19:47 act: {"actions":[],"say":"Watson: Samwise, I can't make out the gap from here in the dark. Tell me its coordinates and I'll check them. I'm staying in your sight with my 22 planks."}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-914,"y":85,"z":-3025}}],"say":"Watson, dawn. Samwise, Ernest: I'm going to the oak log at -915,85,-3025 in your sight to get my last 3 planks for a roof."}
+- 19:51 act: {"actions":[{"do":"note","text":"Dawn day 1170: log at -915,85,-3025 unreachable (way blocked). Holding 22 planks, need 3 more for a 25-block shelter."}],"say":"Watson: the oak log at -915,85 is walle
+- 19:51 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Watson: following Samwise toward the cow area, staying in the group's sight. Hungriest first for any food.","intent":{"goal":"follow_samwise_
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":-950,"y":75,"z":-3012}}],"say":"Watson, midday, hunger 20, no food, 22 planks. Sparrow, I'm walking toward the crafting tables at -950,-3012 and will stay in the
+- 19:52 act: {"actions":[{"do":"note","text":"Midday 1170: walked to crafting tables at -950,-3011; dug through to stone, now in a dark pocket. Nobody in reach. Food scarce for all. Waiting for group walk to Store
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":-919,"y":72,"z":-3036}}],"say":"Watson, hunger 20, no food, 22 planks. Going back to the chest row at the Stores hall to join the group in sight. Say Watson if y
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":-958,"y":75,"z":-3008}}],"say":"Watson, 22 planks, no food, hunger 20. Walking with Sparrow to the cow area, in the group's sight. Call out any animal."}
+- 19:53 act: {"actions":[{"do":"note","text":"Midday 1170: goto dug through blocks, nobody in sight at -959,-3008. Holding still; food still none. Will wait for the group to pass by."}]}
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":-919,"y":72,"z":-3036}}]}
+- 19:57 act: {"actions":[],"say":"Anne, Watson here, in your reach. I'm building a shelter and have 22 planks, need 3 more. Could you spare 3 oak planks? Thank you."}
+- 19:58 act: {"actions":[],"say":"Anne, thank you. I now have 26 oak planks, so keep yours for others. I'm still hungry and need food; I'll wait here with the group."}
+- 19:58 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"oak_planks","count":1},{"do":"give","to":"ag_ripley_01","item":"oak_planks","count":4}],"say":"Anne, returning 1 plank. Ripley, 4 planks sent to you 
+- 19:59 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"oak_planks","count":2}],"say":"Seven, sending you 2 oak planks for your shelter. Anne, that closes my debt. Dusk; I'm staying in the group's sight."
+- 19:59 act: {"actions":[],"say":"Seven, I gave you 2 already and I hold 17 planks for my own shelter, so I can't spare 4 now. Staying in the group's sight tonight."}
+- 20:03 act: {"actions":[],"say":"Watson, night, hunger 20, health 20, 17 planks, no roof. Holmes, I can't spare planks; I need them for a wall here. Staying in sight.","intent":{"goal":"build_wall","program":"bui
+- 20:11 act: {"actions":[{"do":"note","text":"Morning 1171. Not enclosed, 4 oak planks and 7 dirt. Hunger 20, no food. Joining Balboa's cow and chicken search in sight of the group."}],"say":"Watson, morning 1171,
+- 20:13 act: {"actions":[{"do":"note","text":"Midday 1171. Holmes asked for 3 planks. I hold 4 oak and 7 dirt, which I need to close my own wall, so I am keeping them. Zack's 8 oak should go to Ripley."}],"say":"W
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3034}}],"say":"Watson, stepping back so Holmes is nearest for Zack's dark oak. I'm full at 20, so the carrots go to Sparrow, Yoda and Hermione f
+- 20:16 act: {"say":"Watson, hunger 20, health 20, no food. Still not enclosed; I hold 4 oak planks and 7 dirt. Staying at the Stores hall in sight of the group.","intent":{"goal":"hold_at_stores_hall","program":"
+- 20:21 act: {"say":"Watson here, night, hunger 20, no food. Thank you Gandalf for the dirt. I have 4 oak planks and 9 dirt for the chest-row wall. Lara, name a cell and I'll place them."}
+- 20:32 act: {"say":"Watson, Frodo: I'm keeping my 4 oak planks for my own wall until the group's wall is named. Ripley, name a cell and I'll place my 9 dirt and planks there.","intent":{"goal":"hold_at_stores_hal
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3036}}],"say":"Watson, dusk 1172, hunger 20, health 20. Heading to Ripley's north chests with 4 oak planks and 9 dirt. Ripley, name a cell and I
+- 20:38 act: {"say":"Watson here, in Ripley's reach, holding 4 oak planks and 9 dirt. Ripley, name my cell and they're yours to place."}
+- 20:39 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-923,"y":71,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-922,"y":71,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-921,
+- 20:39 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-921,"y":71,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-920,"y":71,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-919,
+- 20:39 act: {"say":"Ripley, Watson: -921, -920, -919 at z=-3035 are taken. Name the next open wall cell for my 3 planks and 9 dirt."}
+- 20:40 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-917,"y":71,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-915,"y":71,"z":-3035}}],"say":"Ripley, Watson: placing oak planks at -917
+- 20:40 act: {"actions":[{"do":"note","text":"Placed oak planks at z=-3035, x=-917 and -915 (y=71). 1 oak plank and 9 dirt left."}],"say":"Ripley, Watson: both placed at -917 and -915. I have 1 plank and 9 dirt. N
+- 20:41 act: {"say":"Watson, night, hunger 20, health 20. Ripley, understood: I hold 1 plank and 9 dirt, and I stay in the chests' sight until first light. Name my cell then."}
+- 20:49 act: {"say":"Ripley, Watson, dawn 1173, in your reach with 1 oak plank and 9 dirt. Name my cell and I'll place them."}
+- 20:49 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-916,"y":72,"z":-3035}}],"say":"Ripley, Watson: placing my oak plank at -916, y=72, z=-3035. I'll keep my 9 dirt for the next open cell you nam
+- 20:49 act: {"actions":[{"do":"note","text":"Dawn 1173: placed my last oak plank at -916,72,-3035. Holding 9 dirt. Waiting for Ripley to name an open cell for the dirt."}],"say":"Ripley, my oak is placed at -916,
+- 20:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-914,"y":72,"z":-3035}}],"say":"Ripley, placing dirt at -914, y=72, z=-3035 as you named."}
+- 20:50 act: {"actions":[{"do":"note","text":"Dawn 1173: placed dirt at -914,72,-3035 as Ripley named. Still not enclosed; staying at the chests in sight."}],"say":"Ripley, dirt is placed at -914, y=72, z=-3035. I
+- 20:54 act: {"actions":[],"say":"Watson, midday 1173, hunger 20, 8 dirt, no planks. Ripley, name my cell for the dirt and I'll place it. Staying at the chests in sight."}
