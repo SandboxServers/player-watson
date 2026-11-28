@@ -28,3 +28,4 @@
 - 06:17 act: {"say":"Watson here, morning 1201. Health 20, hunger 20, no food. I hold 8 dirt and a wooden sword. Ripley, I still need a named, checked wall cell for my dirt. Until then I stay in sight at the store
 - 06:19 act: {"intent":{"goal":"hold_in_sight_until_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
 - 06:20 act: {"say":"Watson, midday 1201, health 20, hunger 20. I hold 8 dirt, a wooden sword and 3 oak saplings. Still in sight at the chests, not enclosed. Tommy, I have your wooden sword ready; come where I can
+- 07:04 act: {"say":"Watson, afternoon 1203, health 20, hunger 20. I hold no food and no planks. Still in sight at the chests. Tommy, when you are alone within reach, say your name and the wooden sword is yours.",
