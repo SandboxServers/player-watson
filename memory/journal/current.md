@@ -1,1 +1,25 @@
 # Journal
+- 02:47 act: said my status at the Stores chests, midday 1191. No food to share; offered to carry. Staying in sight.
+- Midday 1191: group short of food. Sheep spot near -1052,75,-2991 being scouted. Days since sleep 37.
+- Morning to afternoon 1191: no checked cell named by anyone. I named none and placed no dirt.
+- Dusk 1192 to morning 1192: night passed in sight of the chests, no harm. Days since sleep 38.
+- Midday 1192: Watney's cell -914,71,-3029 still open, not sealed. I offered to view it.
+- Dusk 1192: food going to Galileo, Anne and Knope first. I hold nothing to give.
+- Night 1193: offered my 8 dirt for Galileo's north gap, to place only on a cell two viewers confirm. Uhura's plank at -923,71,-3038 failed as occupied. Galileo's shelter is still not sealed.
+- Morning 1194: still not sheltered, health 20, hunger 20, days since sleep 39. Placing nothing. Galileo's gap is still unnamed; the roof may be the open part.
+- Dusk 1194: hunger 20, health 20, days since sleep 40. Not sheltered, no bed. Staying in the group at the chests overnight. Legolas gave Leif a melon slice. Placing nothing.
+- Midday 1194 (later): Galileo named a gap near -922,71,-3039 but no exact cell two viewers agree on. My view shows only an air gap up and left. I said so and placed nothing. Health 20, hunger 20.
+- Dusk 1194 to midday 1195: night in sight at the chests, no harm. Nobody named a checked cell, so I placed nothing. Midday 1195: health 20, hunger 20, days since sleep 41.
+- Morning 1196: still at the chests in sight, health 20, hunger 20, days since sleep 42. Riker and Scotty's plank trade is theirs; I was not asked. Placing nothing, no checked cell yet.
+- Midday 1196: still in sight at the chests, health 20, hunger 20. Knope, Frodo and Leif have no checked cell yet. Shackle and Uhura hold food for the weakest. I place nothing.
+- Dusk 1196: sun set, dim, in sight at the chests, not enclosed. Health 20, hunger 20, days since sleep 42. Lovelace asks for a checked cell; I have none to name. Placing nothing.
+- Night 1196 to midday 1197: in the crowd at the chests, no harm, health 20, hunger 20. Picard (health 16, hunger 17) is being fed by Uhura, Tesla and Shackle. I hold 8 dirt and place none.
+- Day 1197, sun low: still at the chests, health 20, hunger 20, days since sleep 43. Balboa took carrots from the north row; Orville is hungry with no food. I am not hungry, so I leave the food for them. Placing nothing.
+- Midday 1197: Holmes, Tesla, Amelia, Sam and Jane hold for a checked cell. I have none to name, so I placed nothing. Health 20, hunger 20.
+- Midday 1198: Leia's plank at -920,72,-3040 did not go down; Amelia and Sparrow hold planks for it. My view cannot see that cell. Still in sight at the chests, health 20, hunger 20, days since sleep 44. Placing nothing.
+- Morning 1198: Leif reports -920,72,-3040 is not open, oak planks sit there. Nobody names a clear cell. Still at the chests in sight, health 20, hunger 20. Placing nothing.
+- Midday 1198 (later): Leia, Doc and Uhura all say -919,72,-3040 is not open air. Nobody has a checked cell. I stay in sight at the chests, health 20, hunger 20. Placing nothing.
+- Afternoon 1199: at the chests in sight, health 20, hunger 20. Tesla's wall cell -962,73,-3054 is 40 blocks off and I cannot see it, so I name nothing. Placing nothing.
+- Night 1199 to morning: the group came back to the chests; bows drawn to the east. I stayed in sight, no harm. Health 20, hunger 20, days since sleep 45. Placing nothing.
+- 03:53 say: {"text":"Watson, midday 1194, in sight at the chests, health 20, hunger 20. My view is mostly solid: an air gap only up and to the left. Galileo, I cannot pin the cell either, so I place nothing."}
+- 03:57 say: {"text":"Watson, dusk 1194. Leia, I can name no exact air cell: my view shows only air up and to the left, nothing level. I place nothing and stay at the chests in sight. Health 20, hunger 20."}
