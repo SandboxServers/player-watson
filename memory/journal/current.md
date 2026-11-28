@@ -23,3 +23,5 @@
 - Night 1199 to morning: the group came back to the chests; bows drawn to the east. I stayed in sight, no harm. Health 20, hunger 20, days since sleep 45. Placing nothing.
 - 03:53 say: {"text":"Watson, midday 1194, in sight at the chests, health 20, hunger 20. My view is mostly solid: an air gap only up and to the left. Galileo, I cannot pin the cell either, so I place nothing."}
 - 03:57 say: {"text":"Watson, dusk 1194. Leia, I can name no exact air cell: my view shows only air up and to the left, nothing level. I place nothing and stay at the chests in sight. Health 20, hunger 20."}
+- 05:27 say: {"text":"Watson, morning 1199. Health 20, hunger 20. I have not slept for 45 days and need a sealed bed. Will anyone show me an enclosed cell with solid sides? I stay in sight of the chests."}
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3034}}],"say":"Watson, morning 1201, hunger 20. Lovelace, I have stepped clear of you, to -913,71,-3034. Balboa's carrot is yours if you are alo
