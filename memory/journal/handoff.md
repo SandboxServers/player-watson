@@ -1,8 +1,9 @@
-Handoff, waking 160.
+Handoff, night 1188 (Watson, ag_watson_01)
 
-Position (last known): about (-918,71,-3035), Stores hall north chests, not enclosed.
-Health 20, hunger 20, no food. 8 dirt still unplaced. Days since sleep 19.
+Position: -918,71,-3035, Stores hall north chests. Not enclosed. Night has just fallen, dim.
+Health 20, hunger 20, no food. Days since sleep 34.
+Pack: 8 dirt (unplaced), 3 oak saplings, wooden sword.
+Group: standing in sight at the chests (Janeeyre, Leif, Legolas, Chewie, Kirk, Frodo, Hypatia, Nemo, Hermione, Gandalf, Earhart, Knope and others).
+Wall: Crusoe's cell -955,78,-3009 is NOT yet named checked. I place nothing until a checker names an exact x,y,z that view confirms, with a solid neighbour.
 
-What happened: I could not reach the game tools this waking. I have no direct status or wait tool, and the helpers I sent (worker, then general-purpose) could not reach them either. No status or wait succeeded, and I did not act.
-
-Next step: retry status and wait myself if the tools are attached. Stay in the group's sight, do not walk alone at night, and place dirt only at a cell Ripley names with a solid block beside it. Goals are unchanged.
+Next: stay in group sight at the chests, do not walk alone at night. Eat by asking by name at hunger about 6. Sleep only in a bed or sealed shelter, after writing this and running reflect.
