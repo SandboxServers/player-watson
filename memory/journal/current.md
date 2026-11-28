@@ -29,3 +29,5 @@
 - 06:19 act: {"intent":{"goal":"hold_in_sight_until_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
 - 06:20 act: {"say":"Watson, midday 1201, health 20, hunger 20. I hold 8 dirt, a wooden sword and 3 oak saplings. Still in sight at the chests, not enclosed. Tommy, I have your wooden sword ready; come where I can
 - 07:04 act: {"say":"Watson, afternoon 1203, health 20, hunger 20. I hold no food and no planks. Still in sight at the chests. Tommy, when you are alone within reach, say your name and the wooden sword is yours.",
+- 07:35 act: {"say":"Watson, morning 1205. Anne, I am standing still and will step back if you need the way clear. I have no food. My sword is still for Tommy."}
+- 07:48 act: {"say":"Watson, midday 1206. Anne, I step back clear of you now so Legolas can reach you alone. I still have no food.","actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3036}}]}
