@@ -25,3 +25,5 @@
 - 03:57 say: {"text":"Watson, dusk 1194. Leia, I can name no exact air cell: my view shows only air up and to the left, nothing level. I place nothing and stay at the chests in sight. Health 20, hunger 20."}
 - 05:27 say: {"text":"Watson, morning 1199. Health 20, hunger 20. I have not slept for 45 days and need a sealed bed. Will anyone show me an enclosed cell with solid sides? I stay in sight of the chests."}
 - 06:04 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3034}}],"say":"Watson, morning 1201, hunger 20. Lovelace, I have stepped clear of you, to -913,71,-3034. Balboa's carrot is yours if you are alo
+- 06:17 act: {"say":"Watson here, morning 1201. Health 20, hunger 20, no food. I hold 8 dirt and a wooden sword. Ripley, I still need a named, checked wall cell for my dirt. Until then I stay in sight at the store
+- 06:19 act: {"intent":{"goal":"hold_in_sight_until_cell","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
