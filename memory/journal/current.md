@@ -31,3 +31,6 @@
 - 07:04 act: {"say":"Watson, afternoon 1203, health 20, hunger 20. I hold no food and no planks. Still in sight at the chests. Tommy, when you are alone within reach, say your name and the wooden sword is yours.",
 - 07:35 act: {"say":"Watson, morning 1205. Anne, I am standing still and will step back if you need the way clear. I have no food. My sword is still for Tommy."}
 - 07:48 act: {"say":"Watson, midday 1206. Anne, I step back clear of you now so Legolas can reach you alone. I still have no food.","actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3036}}]}
+- 08:29 say: {"text":"Watson, midday 1208, at the Stores, health and hunger 20. I hold 8 dirt for a walled shelter. Name one exact x,y,z that two viewers confirm walled, and I will place it there in daylight."}
+- 08:37 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3031}}],"say":"Watson, morning 1208: Data, I am stepping back 3 blocks so you stand alone with Shackle. I hold no food, only 8 dirt and one wood
+- 08:37 act: {"actions":[{"do":"unstick"}]}
